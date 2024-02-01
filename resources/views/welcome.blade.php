@@ -6,6 +6,7 @@
 
         <title>Laravel</title>
         <h1>JaNae Woodruff {{date('Y-m-d')}}</h1>
+        <h2>I made a change for Milestone 3.2!</h2>
         
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
